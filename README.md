@@ -15,4 +15,4 @@ Create a new Class and use the above code
 
 Save the file and right click and export as jar file
 
-Run the.jar file by typing hadoop jar <jar file> <class> /<folder name> /<folder name>/output as hadoop jar index.jar InvertedIndex /ii /ii/output
+Run the.jar file by typing hadoop jar <jar file> <class> /<folder name> /<folder name>/output as hadoop jar index.jar Co-occurrence /ii /ii/output
